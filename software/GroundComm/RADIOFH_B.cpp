@@ -234,7 +234,6 @@ byte RADIOClass::ReceiveData(byte *rxBuffer) {
 
 int RADIOClass::ReadRSSI() {
   int rssiOffset = 74;
-  Serial.println(rssiOffset);
   int rssiDec = (int)CC1101.ReadStatusReg(RADIO_RSSI);
   if(rssiDec >= 128) {
     return (rssiDec-256)/2-rssiOffset;
