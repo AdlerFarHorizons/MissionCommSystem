@@ -8,6 +8,12 @@
 	
 */
 
+#ifndef CC1190
+  #define RSSI_OFFSET 74
+#else
+  #define RSSI_OFFSET 81
+#endif
+
 #ifndef _RADIOFH_H_B_INCLUDED
 #define _RADIOFH_H_B_INCLUDED
 
@@ -49,11 +55,6 @@
 #define LNA_EN  8 // Pin Config LNA Enable for CC1190
 #define PA_EN   7 // Pin Config PA Enable for CC1190
 
-#ifndef CC1190
-  #define RSSI_OFFSET 74
-#else
-  #define RSSI_OFFSET 81
-#endif
 
 
 
