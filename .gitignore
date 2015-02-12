@@ -1,0 +1,11 @@
+*.?#?
+*~
+reference/
+data/
+local/
+temp/
+tmp/
+cache/
+.hg/
+desktop.ini
+.DS_Store

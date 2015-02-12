@@ -1,0 +1,894 @@
+Sweep 1 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -121.6 | -121.6 | -121.6
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -41.0 | -41.0 | -41.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -41.0 | -41.0 | -41.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -41.0 | -41.0 | -41.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -41.0 | -41.0 | -41.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -41.0 | -41.0 | -41.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -41.0 | -41.0 | -41.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -41.0 | -41.0 | -41.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -41.0 | -41.0 | -41.0
+Sweep 1 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -123.3 | -123.3 | -123.3
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -122.3 | -122.3 | -122.3
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 2 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -83.2 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -82.7 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 3 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -69.8 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -69.4 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 4 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -63.1 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -62.8 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 5 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -59.1 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -58.9 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 6 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -56.4 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -56.2 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 7 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -54.5 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -54.3 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 8 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -53.0 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -52.9 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 9 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -51.9 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -51.8 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 10 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -51.0 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -50.9 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 11 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -50.3 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -50.2 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 12 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -49.7 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -49.6 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 13 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -49.2 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -49.1 | -43.0
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -43.0 | -43.0 | -43.0
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -43.0 | -43.0 | -43.0
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -43.0 | -43.0 | -43.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -43.0 | -43.0 | -43.0
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -43.0 | -43.0 | -43.0
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -43.0 | -43.0 | -43.0
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -43.0 | -43.0 | -43.0
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -43.0 | -43.0 | -43.0
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -43.0 | -43.0 | -43.0
+Chan 12: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 184 | -43.0 | -43.0 | -43.0
+Chan 13: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 214 | -43.0 | -43.0 | -43.0
+Chan 14: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 245 | -43.0 | -43.0 | -43.0
+Chan 15: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 19 | -43.0 | -43.0 | -43.0
+Chan 16: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 49 | -43.0 | -43.0 | -43.0
+Chan 17: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 80 | -43.0 | -43.0 | -43.0
+Chan 18: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 110 | -43.0 | -43.0 | -43.0
+Chan 19: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 140 | -43.0 | -43.0 | -43.0
+Chan 20: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 171 | -43.0 | -43.0 | -43.0
+Chan 21: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 201 | -43.0 | -43.0 | -43.0
+Chan 22: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 106 | 231 | -43.0 | -43.0 | -43.0
+Sweep 14 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -43.0 | -48.7 | -43.0
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -43.0 | -48.7 | -43.0
+Sweep 1 -------------------
+Chan 0: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 76 | -123.3 | -123.3 | -123.3
+Chan 1: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 106 | -122.1 | -122.1 | -122.1
+Chan 2: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 137 | -123.1 | -123.1 | -123.1
+Chan 3: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 167 | -122.7 | -122.7 | -122.7
+Chan 4: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 197 | -107.0 | -107.0 | -107.0
+Chan 5: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 104 | 228 | -123.3 | -123.3 | -123.3
+Chan 6: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 2 | -122.4 | -122.4 | -122.4
+Chan 7: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 32 | -123.2 | -123.2 | -123.2
+Chan 9: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 93 | -122.5 | -122.5 | -122.5
+Chan 10: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 123 | -122.2 | -122.2 | -122.2
+Chan 11: freq2 | freq1 | freq 0 | current | cum ave | max (dbm)  33 | 105 | 154 | -123.3 | -123.3 | -123.3
+¸¸¸ˇ˛¸üˇ˛Ò¸¸¸˛¸˛¸˛˛˛ˇˇ˛¸˛˛˛¸¸¸˛˛¸ˇ˛¸¸¸˛¸˛ˇ¸ˇˇ˛˛ˇ¸¸ˇ¸ˇ˛˛˛˛¸˛˛˛ˇ¸˛¸¸ˇ˛¸¸¸¸˛˛ˇˇ¸˛¸¸˛¸¸¸¸¸ˇˇ˛¸¸˛¸¸¸¸¸˛ˇˇˇ˛ˇ˛˛˛¸˛¸ˇˇ˛˛ˇˇ¸¸˛˛˛ˇ˛¸¸˛¸ˇ˛¸˛ˇ˛¸ˇ˛ˇ˛ˇ¸¸¸˛¸˛¸C1101a0Å"ê˛†ÄÄ` $ Ç—π`!H·yÒ˛ËÄfö†àN!sC#Ä ﬂ+(îPÚ˛‰ßÅ# ›#˚CÛ[´Å3®≥ï—˛ô )6ôu·
+ı„ Eí Å·—ØÖˇ˛ª„≥üéõ)©iDM
+
+‚ A‡°˛s	%sÁõ¨íLŸî–I°†Aˇ¸·!)õc-…@»¡*1G5!∞Ò˛ÕEib(5[…Òó_}&	'áZ2®¸8T™Éô∆'Ö¬gŸ†¸›ì!Ëìô0Ëì`‚¡creù'˝ˇ8±!ë	É
+e±A‰<@F·ëÖˇ˛†á;+0!'ˆ÷…syh‰¥ù·˛?jF ›) à3°=ˇ2~9»1°°ˇ/0‰◊!ÁNâÒÒï∫ºdÁˇ¿√˚ßÒ/Ÿ8T€”°Ö±Û¸ñ[êê∑ß’°) 0îÒÒÅ/º¸¸ıˆì…KU∆ô®ëïq|u°ù ˇÒ[≤ÈU˘»5Ÿ(ôIy˘8TŸ¸VôìZÿvÛ“äVÆ¶äCº∞˛€G≈˛â¢Kí≈RÖX?B„Â¸¸A˚·¢F#√`•)q&Ò˛ù]˘X?!/†I≈K·úKa˝˛VJ üaaå±W†b:ÚtÀ√¸¸Ch—◊ÜµkÉ=c á-íS—¶:Ô˛≤Ö©Ña£⁄˚ì	ç£÷ﬂì0¸C˚ÒÎ%åÉÃc†≥Ca±1—)i Yˇ¸M-)IÅ°ÖôâPBîC¥	Öã£‡„˛ßh¶#±π%#Ü£r5E˝˛"' @Gá`Ë çõöÉâ`‡¸∏F—d`âa†\√ù©}8Å5¸4=ÓØî+©03—HBäÒ¸*áa4ì±°S9Æq‚œC# ◊·¸bjK@	i≥óùcÉÅe# :Ú∑Á˛
+xÖDGÏ‡É#±óôÛì≥ –˛¸
+9∞*!…ÑÇ‘”HDI1•3·¸ëJïπ∏h£,£õ1s!ã¸KÚcsq„Á Õøc·@ˇˇD9•qÖÔ3…è„€aŸÌˇhˇ¸1=Ñ#D?)+'(#L•,ÅH·(·ˇ°I%°!%	#!çõï∑D©≥#˝˛Z2JøÛ±3!ïMÀ©¡ï%Ü¸¸ÆãÕ9rëôÛÛó}∑>N"]YËDˇ¸2Ä¬8"%Æ µ[…Ûìõ±b%Ê˛	[Phª„ìù7b)f¥¥cÕV¸˛z„6ìªÛ±ï£—Z¢ÒuD≤ìÔˇêøu“Hq°ñöY(ôoªÛô∑%˝ˇ≤!3aMO
+V£·O`´¡™P…ˇIS?)V·r„±‚É´·ïøu¸˛2%ë	A’qü±ÒÕÜö·˛Bºp8Ω∑†Së ab≥ë∑≥ì%SÓ˛˚±·Gí≥C®2PSÃcÅ1¸ı(—füÒ≥≈0Z∑ YØƒ1¸K$óö¡C4ª∆Ø∫\xÍs˛ÿII˝–— ¥îä·1%@C‡Úˇ¸40¶ïƒ=0†H±Û≥ìë·än_¸iwßo Ç÷%d·º`Fˇ2¸àÉè?•Ú±IÀ$lá©N†SÇR!Ë¸`á3
+∆ÿ÷ÑWVñ Œﬂ—Í¡ã÷¸´€µ0ç)µ≥_){8çÛì˝Ò¸´˚˜Àr◊ÿ6œùGÈ3( 	¸ |çœ<VïˆC¿¡#ï€íˇ˛*◊òˇs7∏Ér¢”ô;⁄µC$·ˇ¸ñÇªuÛìéøR∏≤≤rÚì_í˝˛Pœ	£;>.€ÇÅŸ≥°15˘„˛£·∞à¿π.≥≤@Åº®– Ä¡˛¸ ÄˇMissed:220 Index:221 -43 Msg: WB9SKY R200T131L23
+Sending: WB9SKY 
+Missed:0 Index:222 -43 Msg: WB9SKY R41T126L24
+Sending: WB9SKY 
+Missed:0 Index:223 -45 Msg: WB9SKY R42T126L24
+Sending: WB9SKY 
+Missed:0 Index:224 -49 Msg: WB9SKY R42T126L24
+Sending: WB9SKY 
+Missed:0 Index:225 -47 Msg: WB9SKY R49T126L24
+Sending: WB9SKY 
+Missed:0 Index:226 -39 Msg: WB9SKY R50T126L24
+Sending: WB9SKY 
+Missed:0 Index:227 -42 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:228 -40 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:229 -49 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:230 -44 Msg: WB9SKY R48T126L24
+Sending: WB9SKY 
+Missed:0 Index:231 -45 Msg: WB9SKY R45T126L24
+Sending: WB9SKY 
+Missed:0 Index:232 -40 Msg: WB9SKY R39T126L24
+Sending: WB9SKY 
+Missed:0 Index:233 -43 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:234 -42 Msg: WB9SKY R41T126L24
+Sending: WB9SKY 
+Missed:0 Index:235 -42 Msg: WB9SKY R40T126L23
+Sending: WB9SKY 
+Missed:0 Index:236 -42 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:237 -38 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:238 -40 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:239 -40 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:240 -42 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:241 -38 Msg: WB9SKY R39T126L24
+Sending: WB9SKY 
+Missed:0 Index:242 -39 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:243 -38 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:244 -38 Msg: WB9SKY R36T126L24
+Sending: WB9SKY 
+Missed:0 Index:245 -39 Msg: WB9SKY R36T126L24
+Sending: WB9SKY 
+Missed:0 Index:246 -38 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:247 -39 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:248 -40 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:249 -39 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:250 -38 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:251 -39 Msg: WB9SKY R36T126L24
+Sending: WB9SKY 
+Missed:0 Index:252 -39 Msg: WB9SKY R36T126L23
+Sending: WB9SKY 
+Missed:0 Index:253 -40 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:254 -41 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:255 -41 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:-256 Index:0 -40 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:1 -39 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:2 -41 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:3 -42 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:4 -42 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:5 -42 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:6 -43 Msg: WB9SKY R39T126L24
+Sending: WB9SKY 
+Missed:0 Index:7 -43 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:8 -41 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:9 -43 Msg: WB9SKY R41T126L24
+Sending: WB9SKY 
+Missed:0 Index:10 -44 Msg: WB9SKY R41T126L23
+Sending: WB9SKY 
+Missed:0 Index:11 -43 Msg: WB9SKY R42T126L24
+Sending: WB9SKY 
+Missed:0 Index:12 -39 Msg: WB9SKY R41T126L24
+Sending: WB9SKY 
+Missed:0 Index:13 -40 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:14 -41 Msg: WB9SKY R39T126L24
+Sending: WB9SKY 
+Missed:0 Index:15 -39 Msg: WB9SKY R38T126L23
+Sending: WB9SKY 
+Missed:0 Index:16 -39 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:17 -38 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:18 -37 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:19 -41 Msg: WB9SKY R35T126L23
+Sending: WB9SKY 
+Missed:0 Index:20 -39 Msg: WB9SKY R40T126L23
+Sending: WB9SKY 
+Missed:0 Index:21 -39 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:22 -41 Msg: WB9SKY R37T126L24
+Sending: WB9SKY 
+Missed:0 Index:23 -41 Msg: WB9SKY R39T126L24
+Sending: WB9SKY 
+Missed:0 Index:24 -40 Msg: WB9SKY R39T126L23
+Sending: WB9SKY 
+Missed:0 Index:25 -41 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:26 -42 Msg: WB9SKY R38T126L24
+Sending: WB9SKY 
+Missed:0 Index:27 -42 Msg: WB9SKY R39T126L24
+Sending: WB9SKY L1
+Missed:0 Index:28 -40 Msg: WB9SKY R40T126L24
+Sending: WB9SKY 
+Missed:0 Index:29 -44 Msg: WB9SKY R37T126L404
+Sending: WB9SKY 
+Missed:0 Index:30 -54 Msg: WB9SKY R49T126L402
+Sending: WB9SKY 
+Missed:0 Index:31 -44 Msg: WB9SKY R69T126L400
+Sending: WB9SKY 
+Missed:0 Index:32 -43 Msg: WB9SKY R42T126L399
+Sending: WB9SKY 
+Missed:0 Index:33 -44 Msg: WB9SKY R43T126L398
+Sending: WB9SKY L0
+Missed:0 Index:34 -44 Msg: WB9SKY R44T126L397
+Sending: WB9SKY 
+Missed:0 Index:35 -44 Msg: WB9SKY R39T126L22
+Sending: WB9SKY 
+Missed:0 Index:36 -39 Msg: WB9SKY R40T126L23
+Sending: WB9SKY 
+Missed:0 Index:37 -36 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:38 -38 Msg: WB9SKY R34T126L23
+Sending: WB9SKY 
+Missed:0 Index:39 -39 Msg: WB9SKY R34T126L23
+Sending: WB9SKY 
+Missed:0 Index:40 -40 Msg: WB9SKY R39T126L23
+Sending: WB9SKY 
+Missed:0 Index:41 -41 Msg: WB9SKY R38T126L23
+Sending: WB9SKY 
+Missed:0 Index:42 -38 Msg: WB9SKY R38T126L23
+Sending: WB9SKY 
+Missed:0 Index:43 -43 Msg: WB9SKY R37T126L23
+Sending: WB9SKY 
+Missed:0 Index:44 -44 Msg: WB9SKY R41T126L23
+Sending: WB9SKY 
+Missed:0 Index:45 -46 Msg: WB9SKY R41T126L23
+Sending: WB9SKY 
+Missed:0 Index:46 -38 Msg: WB9SKY R43T126L23
+Sending: WB9SKY 
+Missed:0 Index:47 -38 Msg: WB9SKY R35T126L23
+Sending: WB9SKY 
+Missed:0 Index:48 -38 Msg: WB9SKY R36T126L23
+Sending: WB9SKY 
+Missed:0 Index:49 -40 Msg: WB9SKY R36T126L23
+Sending: WB9SKY 
+Missed:0 Index:50 -43 Msg: WB9SKY R36T126L23
+Sending: WB9SKY 
+Missed:0 Index:51 -47 Msg: WB9SKY R41T126L23
+Sending: WB9SKY 
+Missed:0 Index:52 -50 Msg: WB9SKY R52T126L23
+Sending: WB9SKY 
+Missed:0 Index:53 -43 Msg: WB9SKY R49T126L23
+Sending: WB9SKY 
+Missed:0 Index:54 -46 Msg: WB9SKY R42T126L23
+Sending: WB9SKY 
+Missed:0 Index:55 -47 Msg: WB9SKY R45T126L23
+Sending: WB9SKY 
+Missed:0 Index:56 -50 Msg: WB9SKY R45T126L23
+Sending: WB9SKY 
+Missed:0 Index:57 -42 Msg: WB9SKY R47T126L23
+Sending: WB9SKY 
+Missed:0 Index:58 -44 Msg: WB9SKY R57T126L23
+Sending: WB9SKY 
+Missed:0 Index:59 -50 Msg: WB9SKY R44T126L23
+Sending: WB9SKY 
+Missed:0 Index:60 -48 Msg: WB9SKY R49T126L23
+Sending: WB9SKY 
+Missed:0 Index:61 -60 Msg: WB9SKY R54T126L23
+Sending: WB9SKY 
+Missed:0 Index:62 -70 Msg: WB9SKY R69T121L23
+Sending: WB9SKY 
+Missed:0 Index:63 -78 Msg: WB9SKY R66T126L23
+Sending: WB9SKY 
+Missed:0 Index:64 -89 Msg: WB9SKY R82T126L23
+Sending: WB9SKY 
+Missed:0 Index:65 -103 Msg: WB9SKY R87T121L23
+Sending: WB9SKY 
+Missed:0 Index:66 -81 Msg: WB9SKY R97T121L23
+Sending: WB9SKY 
+Missed:0 Index:67 -99 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:68 -84 Msg: WB9SKY R95T121L23
+Sending: WB9SKY 
+Missed:0 Index:69 -76 Msg: WB9SKY R88T121L23
+Sending: WB9SKY 
+Missed:0 Index:70 -85 Msg: WB9SKY R200T121L23
+Sending: WB9SKY 
+Missed:0 Index:71 -82 Msg: WB9SKY R81T126L23
+Sending: WB9SKY 
+Missed:0 Index:72 -80 Msg: WB9SKY R84T126L23
+Sending: WB9SKY 
+Missed:0 Index:73 -77 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:74 -91 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:75 -85 Msg: WB9SKY R89T121L23
+Sending: WB9SKY 
+Missed:0 Index:76 -81 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:77 -81 Msg: WB9SKY R78T121L23
+Sending: WB9SKY 
+Missed:0 Index:78 -77 Msg: WB9SKY R79T126L23
+Sending: WB9SKY 
+Missed:0 Index:79 -83 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:80 -80 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:81 -84 Msg: WB9SKY R79T126L23
+Sending: WB9SKY 
+Missed:0 Index:82 -82 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:83 -80 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:84 -83 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:85 -94 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:86 -86 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:87 -79 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:88 -81 Msg: WB9SKY R77T121L23
+Sending: WB9SKY 
+Missed:0 Index:89 -75 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:90 -83 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:91 -84 Msg: WB9SKY R89T121L23
+Sending: WB9SKY 
+Missed:0 Index:92 -95 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:93 -85 Msg: WB9SKY R105T121L23
+Sending: WB9SKY 
+Missed:0 Index:94 -92 Msg: WB9SKY R85T121L23
+Sending: WB9SKY 
+Missed:0 Index:95 -88 Msg: WB9SKY R106T121L23
+Sending: WB9SKY 
+Missed:0 Index:96 -87 Msg: WB9SKY R92T121L23
+Sending: WB9SKY 
+Missed:0 Index:97 -88 Msg: WB9SKY R87T121L23
+Sending: WB9SKY 
+Missed:0 Index:98 -82 Msg: WB9SKY R89T121L23
+Sending: WB9SKY 
+Missed:0 Index:99 -81 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:100 -76 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:101 -77 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:102 -79 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:103 -94 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:104 -90 Msg: WB9SKY R89T121L23
+Sending: WB9SKY 
+Missed:0 Index:105 -89 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:106 -87 Msg: WB9SKY R90T121L23
+Sending: WB9SKY 
+Missed:0 Index:107 -94 Msg: WB9SKY R90T121L23
+Sending: WB9SKY 
+Missed:0 Index:108 -82 Msg: WB9SKY R96T121L23
+Sending: WB9SKY 
+Missed:0 Index:109 -80 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:110 -92 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:111 -87 Msg: WB9SKY R85T121L23
+Sending: WB9SKY 
+Missed:0 Index:112 -84 Msg: WB9SKY R85T121L23
+Sending: WB9SKY 
+Missed:0 Index:113 -84 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:114 -88 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:115 -90 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:116 -81 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:117 -81 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:118 -83 Msg: WB9SKY R80T121L24
+Sending: WB9SKY 
+Missed:0 Index:119 -90 Msg: WB9SKY R81T121L24
+Sending: WB9SKY 
+Missed:0 Index:120 -83 Msg: WB9SKY R107T121L24
+Sending: WB9SKY 
+Missed:0 Index:121 -83 Msg: WB9SKY R83T121L24
+Sending: WB9SKY 
+Missed:0 Index:122 -90 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:123 -83 Msg: WB9SKY R96T121L23
+Sending: WB9SKY 
+Missed:0 Index:124 -87 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:125 -94 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:126 -81 Msg: WB9SKY R100T121L23
+Sending: WB9SKY 
+Missed:0 Index:127 -78 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:128 -81 Msg: WB9SKY R83T121L23
+Sending: WB9SKY 
+Missed:0 Index:129 -81 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:130 -81 Msg: WB9SKY R79T121L24
+Sending: WB9SKY 
+Missed:0 Index:131 -78 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:132 -84 Msg: WB9SKY R77T121L23
+Sending: WB9SKY 
+Missed:0 Index:133 -83 Msg: WB9SKY R79T121L24
+Sending: WB9SKY 
+Missed:0 Index:134 -81 Msg: WB9SKY R80T121L24
+Sending: WB9SKY 
+Missed:0 Index:135 -86 Msg: WB9SKY R79T121L24
+Sending: WB9SKY 
+Missed:0 Index:136 -96 Msg: WB9SKY R83T121L23
+Sending: WB9SKY 
+Missed:0 Index:137 -89 Msg: WB9SKY R98T121L23
+Sending: WB9SKY 
+Missed:0 Index:138 -92 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:139 -77 Msg: WB9SKY R95T121L23
+Sending: WB9SKY 
+Missed:0 Index:140 -86 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:141 -78 Msg: WB9SKY R83T121L23
+Sending: WB9SKY 
+Missed:0 Index:142 -85 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:143 -82 Msg: WB9SKY R90T121L23
+Sending: WB9SKY 
+Missed:0 Index:144 -73 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:145 -79 Msg: WB9SKY R71T121L23
+Sending: WB9SKY 
+Missed:0 Index:146 -73 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:147 -73 Msg: WB9SKY R70T121L23
+Sending: WB9SKY 
+Missed:0 Index:148 -78 Msg: WB9SKY R71T121L23
+Sending: WB9SKY 
+Missed:0 Index:149 -77 Msg: WB9SKY R73T121L23
+Sending: WB9SKY 
+Missed:0 Index:150 -77 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:151 -74 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:152 -74 Msg: WB9SKY R73T121L23
+Sending: WB9SKY 
+Missed:0 Index:153 -75 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:154 -80 Msg: WB9SKY R72T121L23
+Sending: WB9SKY 
+Missed:0 Index:155 -75 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:156 -76 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:157 -74 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:158 -77 Msg: WB9SKY R83T121L23
+Sending: WB9SKY 
+Missed:0 Index:159 -92 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:160 -73 Msg: WB9SKY R83T121L23
+Sending: WB9SKY 
+Missed:0 Index:161 -76 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:162 -77 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:163 -75 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:164 -66 Msg: WB9SKY R69T121L23
+Sending: WB9SKY 
+Missed:0 Index:165 -68 Msg: WB9SKY R57T121L23
+Sending: WB9SKY 
+Missed:0 Index:166 -62 Msg: WB9SKY R59T121L23
+Sending: WB9SKY 
+Missed:0 Index:167 -57 Msg: WB9SKY R62T121L23
+Sending: WB9SKY 
+Missed:0 Index:168 -55 Msg: WB9SKY R56T121L23
+Sending: WB9SKY 
+Missed:0 Index:169 -64 Msg: WB9SKY R55T121L23
+Sending: WB9SKY 
+Missed:0 Index:170 -68 Msg: WB9SKY R68T121L23
+Sending: WB9SKY 
+Missed:0 Index:171 -66 Msg: WB9SKY R67T121L23
+Sending: WB9SKY 
+Missed:0 Index:172 -67 Msg: WB9SKY R72T121L23
+Sending: WB9SKY 
+Missed:0 Index:173 -73 Msg: WB9SKY R65T121L23
+Sending: WB9SKY 
+Missed:0 Index:174 -76 Msg: WB9SKY R70T121L23
+Sending: WB9SKY 
+Missed:0 Index:175 -70 Msg: WB9SKY R75T121L23
+Sending: WB9SKY 
+Missed:0 Index:176 -60 Msg: WB9SKY R51T121L23
+Sending: WB9SKY 
+Missed:0 Index:177 -74 Msg: WB9SKY R60T121L23
+Sending: WB9SKY 
+Missed:0 Index:178 -63 Msg: WB9SKY R71T121L23
+Sending: WB9SKY 
+Missed:0 Index:179 -64 Msg: WB9SKY R65T121L23
+Sending: WB9SKY 
+Missed:0 Index:180 -65 Msg: WB9SKY R65T121L23
+Sending: WB9SKY 
+Missed:0 Index:181 -68 Msg: WB9SKY R64T121L23
+Sending: WB9SKY 
+Missed:0 Index:182 -67 Msg: WB9SKY R65T121L23
+Sending: WB9SKY 
+Missed:0 Index:183 -69 Msg: WB9SKY R64T121L23
+Sending: WB9SKY 
+Missed:0 Index:184 -67 Msg: WB9SKY R68T121L23
+Sending: WB9SKY 
+Missed:0 Index:185 -80 Msg: WB9SKY R66T121L23
+Sending: WB9SKY 
+Missed:0 Index:186 -69 Msg: WB9SKY R78T121L23
+Sending: WB9SKY 
+Missed:0 Index:187 -73 Msg: WB9SKY R68T121L23
+Sending: WB9SKY 
+Missed:0 Index:188 -75 Msg: WB9SKY R69T121L23
+Sending: WB9SKY 
+Missed:189 Index:190 -84 Msg: WB9SKY R200T121L23
+Sending: WB9SKY 
+Missed:0 Index:191 -77 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:192 -76 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:193 -76 Msg: WB9SKY R73T121L23
+Sending: WB9SKY 
+Missed:0 Index:194 -88 Msg: WB9SKY R74T121L23
+Sending: WB9SKY 
+Missed:0 Index:195 -79 Msg: WB9SKY R89T121L23
+Sending: WB9SKY 
+Missed:0 Index:196 -85 Msg: WB9SKY R76T121L23
+Sending: WB9SKY 
+Missed:0 Index:197 -81 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:198 -86 Msg: WB9SKY R78T121L23
+Sending: WB9SKY 
+Missed:0 Index:199 -82 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:200 -105 Msg: WB9SKY R79T121L23
+Sending: WB9SKY 
+Missed:0 Index:201 -95 Msg: WB9SKY R96T121L23
+Sending: WB9SKY 
+Missed:0 Index:202 -82 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:203 -87 Msg: WB9SKY R80T121L23
+Sending: WB9SKY 
+Missed:0 Index:204 -86 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:205 -93 Msg: WB9SKY R85T121L23
+Sending: WB9SKY 
+Missed:0 Index:206 -87 Msg: WB9SKY R92T121L23
+Sending: WB9SKY 
+Missed:0 Index:207 -86 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:208 -89 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:209 -92 Msg: WB9SKY R87T121L23
+Sending: WB9SKY 
+Missed:0 Index:210 -94 Msg: WB9SKY R91T121L23
+Sending: WB9SKY 
+Missed:0 Index:211 -94 Msg: WB9SKY R94T121L23
+Sending: WB9SKY 
+Missed:0 Index:212 -83 Msg: WB9SKY R101T121L23
+Sending: WB9SKY 
+Missed:0 Index:213 -90 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:214 -86 Msg: WB9SKY R88T121L23
+Sending: WB9SKY 
+Missed:0 Index:215 -84 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:216 -85 Msg: WB9SKY R81T121L23
+Sending: WB9SKY 
+Missed:0 Index:217 -84 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:218 -88 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:219 -97 Msg: WB9SKY R87T121L23
+Sending: WB9SKY 
+Missed:0 Index:220 -85 Msg: WB9SKY R200T121L23
+Sending: WB9SKY 
+Missed:0 Index:221 -91 Msg: WB9SKY R82T121L23
+Sending: WB9SKY 
+Missed:0 Index:222 -86 Msg: WB9SKY R95T121L23
+Sending: WB9SKY 
+Missed:0 Index:223 -95 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:224 -86 Msg: WB9SKY R94T121L23
+Sending: WB9SKY 
+Missed:0 Index:225 -90 Msg: WB9SKY R88T121L23
+Sending: WB9SKY 
+Missed:0 Index:226 -91 Msg: WB9SKY R88T121L23
+Sending: WB9SKY 
+Missed:0 Index:227 -85 Msg: WB9SKY R90T121L23
+Sending: WB9SKY 
+Missed:0 Index:228 -85 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:229 -87 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:0 Index:230 -95 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:231 -86 Msg: WB9SKY R91T121L23
+Sending: WB9SKY 
+Missed:0 Index:232 -95 Msg: WB9SKY R85T121L23
+Sending: WB9SKY 
+Missed:0 Index:233 -98 Msg: WB9SKY R93T116L23
+Sending: WB9SKY 
+Missed:0 Index:234 -86 Msg: WB9SKY R93T121L23
+Sending: WB9SKY 
+Missed:0 Index:235 -91 Msg: WB9SKY R84T121L23
+Sending: WB9SKY 
+Missed:0 Index:236 -90 Msg: WB9SKY R90T121L23
+Sending: WB9SKY 
+Missed:0 Index:237 -98 Msg: WB9SKY R88T116L23
+Sending: WB9SKY 
+Missed:0 Index:238 -87 Msg: WB9SKY R94T121L23
+Sending: WB9SKY 
+Missed:0 Index:239 -99 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+Missed:239 Index:240 -99 Msg: WB9SKY R100T121L23
+Sending: WB9SKY 
+Missed:0 Index:241 -87 Msg: WB9SKY R200T116L23
+Sending: WB9SKY 
+Missed:0 Index:242 -90 Msg: WB9SKY R88T116L23
+Sending: WB9SKY 
+Missed:0 Index:243 -88 Msg: WB9SKY R94T116L23
+Sending: WB9SKY 
+Missed:0 Index:244 -94 Msg: WB9SKY R86T121L23
+Sending: WB9SKY 
+¸˛˛˛˛Ú˙Ò˛ˇ˛¸¸¸ˇ˛˛ˇ˛˛˛¸˛¸˛¸ˇ¸¸¸ˇ¸¸¸˛¸˛¸¸¸˛˛¸¸¸˛¸˛˛¸˛˛¸ˇˇˇ˛ˇˇ¸˛ˇ¸˛˛˛˛¸ˇ¸˛¸¸¸¸ˇ¸˛¸˛¸˛¸˛˛¸˛ˇ¸˛˛¸¸¸˛˛¸ˇ˛˛˛˛˛¸¸ˇ¸¸¸¸¸¸¸˛¸ˇˇ¸¸¸ˇ¸˛¸¸¸¸¸˛˛˛¸˛˛ˇ˛˛¸˛˛¸˛¸ˇ1q01É‡#0Ä† ˇJ0 • † 0¿ôièacg)˛´Êö!†„J Å`ﬂ?)îpÚˇ‘4…iô˘ ì=+À!#H£—	¸â iÒ5Aäj9ªòR!±¡≠•ˇˇ
+˘Òï˝;ˆ°UY]JBbÎ)h ã¸4#©=#ÎU9˘’¿Kÿ‡A¿°!–Iˇ¸∫r˚aí`¿¨;a√Sê˛ÕEi(5[…Òó_}&	'áZ2®ˇ£ô’gﬂ`C¥»ìŸ Ììg¸®ôÉ§*ÉôË£„ó]∆íÁˇ˛H0	°(∞£tÇ»`Åë!˘ˇ†á;+0!'ˆ÷…syh‰¥ù·¸?nF ˝) à3°=ˇ2v9»…o8Â¸+4êœ§5B˝Á^©Ò±ï∫¥e˘¸–U√€ùôœµu√”°ÖôÛ˛ÿã+-F≈⁄c‘‡ïô¡w‚˛‰’Èïô˜⁄SqTë Ât0ˇ˛X¢…»»€AyH–IÉY1È˛Fô…õzÿv”“ã^Ø&åC–¸∞ˇ`¡Î°¢KC'≈›Ó-´·ÖùÒ!˛‘`îF)ajA√h	q!a° ˇù]˘X?!/ I≈K·úKa˝¸†BÑe°Jàë_;+IúŸˆóΩG2ˇ˛°" É≠•Î©%!£ ã©m≥ùì˘Áˇ∑·)¢Ö‘ãíÒ£>!0s∏ìö˛è€˝ï¡†Ü”òô±1’)i iˇ¸L-)!IÅ°ÅôâPBîC¥	ïã£‡„˛0åE1¢#pFÉ®£√#I≈ê˝˛√ ƒWÅ‡»	óè⁄É®`M;ˇ∏∆$0£hâÈÆ‡˙Ò}GpÁˇ4?÷ı%á´ÒoÄaç/÷ıXP»Ò¸
+∞ê≈?¬S¿Âí>∑°aø=˝¸"JK@	iìüôcíò3≥bÀC∞¸–"ƒGÕ‡ÅÒ≥ù2ÛÛ∑Rú˛¸*	Z!	{áG¡R√”Ë`Eem·˛ £A©—\Wx”≥?Á —$!s˛8GÛsrÉœ!≠cc ⁄	∞ìˇˇL±•1ÖÌ2…õÛ˚AŸÈˇHˇ˛ É#iëi	0iÖî° Éöb«@F‚¸!!a!A!)!≥ïø ÖC˝ˇ5‡æù≥·ìµCqó!±6{ …˝¸éZ9ÅÀSÀ€ÎSU=í– 7˝¸"ÄÇ("$3.0¥;ÈÛÛì9‚!˛[A%£ìΩ∑!tò§«9Ÿ¸¸Çt¬≥ë±ı¬R®Ÿ14:M Q63˛€ı∑ârë)R°°	≥ëYîB ˛û #%!µó!°1Î!àπJı)˘„˛2ïø6â Àåè 8UÉsìø„ˇ≥°!Ö!©aUcíÛïπ£ÂüÛëó˝˛äT8ïø0cï·√É?≥Ó¸Ñ;pO–ë|tÜB	 ú+d†ˇ¡·ÃìùÛ5‘:µyÍ£ÍÄÌ¸K4$ó”1)RÎÖå1@î}ÈÁ¸˙[hMöc?÷‡ !15%¶¬ˇ6!1ç0‰∞Hï”Ûìô¡
+@êˇpß¢ä¡‚ZAj?„¡ÇÛˇªãì_oî:ù%IÁ>ìíîkïÖ˝¸P«Ûö„«œVÁq)Ç¥ö6∆˛¬&◊sΩ(âì≠Ø.R)+VÚ˚¸éﬂˇ:?Ñ+;ú>«é≈#¬â˛ˇ.<¬;7q„´Üá:ÉPÎ[§Û¸*’òˇw?∏√Üó∏~ìô6ñïB∏·ˇˇ√K”˙E≠ˇ˜&?“§í«—…˘r°ˇˇ·<±Ñ|”Yﬂ*{8E_øÙÊ¸7·∞ò¿ô≥≤@Åº®ÿ Ä¡˛˛ Ä˛
