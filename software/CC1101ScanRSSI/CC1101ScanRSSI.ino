@@ -15,6 +15,12 @@ float average[18];
 float max[18] = {-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200,-200 };
 int count, num;
 float tmpave;
+float freq;
+byte FREQ0;
+byte FREQ1;
+byte FREQ2;
+float fbase = (90000000);
+float deltaf =(396.729);
 
 void setup() {
   Serial.flush();
@@ -40,7 +46,13 @@ void loop() {
   Serial.print( "Sweep " );Serial.print( count + 1 );
   Serial.println( " -------------------");
   for( int j = 0 ; j < sizeof( channel ) - 1 ; j++ ) {
-    CC1101.WriteSingleReg( RADIO_CHANNR,  channel[j] );
+    float base = (29491200/13);
+    float chan = ((2048/65) * channel[j]);
+    long Freq = (long)(base + chan +0.5);
+    CC1101.WriteSingleReg( RADIO_FREQ0, channel[j] );
+    CC1101.WriteSingleReg( RADIO_FREQ1, channel[j] );
+    CC1101.WriteSingleReg( RADIO_FREQ2, channel[j] );
+    }
     delay(100);
     tmpave = 0;
     for ( int k = 0 ; k < num ; k ++ ) {
