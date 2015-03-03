@@ -38,6 +38,7 @@ boolean ledOn;
 int tempPin = 3;
 int tempSens;
 int lightPin = 0;
+int watchDogPin = 3;
 int lightSens;
 int rcvdRSSI;
 
@@ -60,6 +61,7 @@ void setup () {
   CC1101.Reset();
   RegConfig(); 
   pinMode( ledPin, OUTPUT );
+  pinMode( watchDogPin, OUTPUT );
   digitalWrite( ledPin, false );
   //CC1101.WriteSingleReg( RADIO_CHANNR,channel );  
   setFreq( baseFreqMHz + channel * chanSpaceHz );
@@ -67,10 +69,18 @@ void setup () {
   // Note: there's no SetReceive() as Master starts with transmit
   rcvdFlag = true;
   index = 0;
-  numMissed = 0;  
+  numMissed = 0;
+  
+  Serial.println("arduino reset: External 1sec watchdog enabled.");
+  digitalWrite( watchDogPin, HIGH );  
 }
 
 void loop() {
+  
+  // Reset external watchdog 
+  digitalWrite( watchDogPin, LOW );
+  digitalWrite( watchDogPin, HIGH );
+  
   if ( intFlag ) {
     /* Read sensors
          Note temperature converted to integer representing
