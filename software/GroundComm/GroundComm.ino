@@ -15,6 +15,8 @@
 #define CC1190
 #include <SPI.h>
 #include "RADIOFH_B.h"
+#include <Wire.h>
+#include <MsTimer2.h>
 
 // Local non-default settings exported from TI SmartRF Studio
 #include "CC1101_CC1190_33cm_gfsk_2401_2884_Man_P26dbm.h"
@@ -23,18 +25,24 @@ int packet_length = 30; // Max is 61
 String txMsg;
 byte i;
 byte size;
-int lastIndex; // Used to check if any master packets were missed.
-byte index; // First transmitted byte: counts to 255 and repeats.
+unsigned int lastIndex; // Used to check if any master packets were missed.
+unsigned int index; // First transmitted byte: counts to 255 and repeats.
+unsigned int rcvdIndex;
 int rssi;
 
 float baseFreqMHz = 902.0;
 int channel = 0;
 float chanSpaceHz = 12500.0;
+int gpsAddr = 10;
+int gpsBytes = 78;
+
+int beepNum = 12;
+int beepCnt = 0;
 
 String cmd;
 
 void setup() {
-  
+  //MsTimer2::set( 1000, timesUp );
   Serial.begin (9600); 
   SPI.begin ();
   SPI.setClockDivider(SPI_CLOCK_DIV4);   
@@ -50,6 +58,8 @@ void setup() {
   
   CC1101.SetReceive(); // Start with waiting for packet
   index = 0;
+  //MsTimer2::start();
+  
 }
 
 void loop() {
@@ -60,18 +70,27 @@ void loop() {
     rssi = CC1101.ReadRSSI( RSSI_OFFSET );
     delayMicroseconds(100);
     Serial.print("Missed:");
-    Serial.print( (int)Pkt_Buffer[0] - lastIndex - 1 );
-    lastIndex = (int)Pkt_Buffer[0];
+    rcvdIndex = (unsigned int)( Pkt_Buffer[0] + 256 * Pkt_Buffer[1] );
+    Serial.print( rcvdIndex - lastIndex - 1 );
+    lastIndex = rcvdIndex;
     Serial.print( " Index:");
-    Serial.print( Pkt_Buffer[0] );
+    Serial.print( rcvdIndex );
     Serial.print( " " );
     Serial.print( rssi );
     Serial.print( " Msg:" );
-    Pkt_Buffer[0] = ' ';
-    Serial.print( (char*) Pkt_Buffer );
+    Serial.print( (char*) &Pkt_Buffer[2] );
     Serial.println("");
     Serial.flush();
     String callSign = " WB9SKY ";
+    if ( beepCnt == beepNum ) {
+      cmd = "L1";
+      beepCnt = 0;
+    } else if ( beepCnt == 0 ) {
+      cmd = "L0";
+      beepCnt++;
+    } else {
+      beepCnt++;
+    }
     txMsg = callSign + cmd; 
     Serial.print( "Sending:" );Serial.println( txMsg );
     transmit();
@@ -82,8 +101,14 @@ void loop() {
       if ( incoming == '1' ) cmd = "L1";
       if ( incoming == '0' ) cmd = "L0";
     }
-  }
-  
+//    // Get GPS message
+//    int num = Wire.requestFrom( gpsAddr, gpsBytes );
+//    Serial.println( Wire.available() );
+//    while ( Wire.available() ) {
+//      char c = Wire.read();
+//      Serial.write( c );
+//    }    
+  }  
 }
 
 void transmit() {
@@ -136,4 +161,7 @@ int freeRam()
   extern int __heap_start, *__brkval; 
   int v; 
   return (int) &v - (__brkval == 0 ? (int) &__heap_start : (int) __brkval); 
+}
+
+void timesUp() {
 }

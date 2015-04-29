@@ -26,7 +26,7 @@ int period = 5000; // ms
 byte i;
 byte size;
 boolean rcvdFlag; // Used to identify a missing slave response.
-byte index; // First transmitted byte: counts to 255 and repeats.
+unsigned int index; // First and second transmitted byte (LSByte first)
 boolean intFlag;
 int rssi;
 int numMissed;
@@ -41,7 +41,6 @@ int lightPin = 0;
 int watchDogPin = 3;
 int lightSens;
 int rcvdRSSI;
-
 float baseFreqMHz = 902.0;
 int channel = 0;
 float chanSpaceHz = 12500.0;
@@ -50,7 +49,7 @@ void setup () {
 
   intFlag = false;
   Serial.begin (9600);
-  Serial.println ();
+  //Serial.println ();
   MsTimer2::set(period, transmit);
   MsTimer2::start();
   SPI.begin ();
@@ -76,11 +75,8 @@ void setup () {
 }
 
 void loop() {
-  
   // Reset external watchdog 
-  digitalWrite( watchDogPin, LOW );
-  digitalWrite( watchDogPin, HIGH );
-  
+  resetWatchDog();
   if ( intFlag ) {
     /* Read sensors
          Note temperature converted to integer representing
@@ -95,17 +91,19 @@ void loop() {
     } else {
       rcvdRSSI = 200;
     }
-    String callSign = " WB9SKY ";
+    String callSign = "  WB9SKY ";
     // To concatenate strings with '+', first addend must be a string
     // variable, not a string literal.
     txMsg = callSign + "R" + String(rcvdRSSI) + "T" + String(tempSens) + "L" + String(lightSens);
 
     // Construct packet here instead of in transmit function
     txMsg.getBytes( Pkt_Buffer, packet_length + 1 );
-    Pkt_Buffer[0]=index;
-    index++;
-    Serial.print( "index:");Serial.print(index);Serial.print(" Sending:");Serial.println( (char*)Pkt_Buffer );
+    Pkt_Buffer[0]=(byte)(index & 0x00FF);
+    Pkt_Buffer[1]=(byte)( ( index >> 8 ) & 0x00FF );
+    Serial.print( "index:");Serial.print(index);
+    Serial.print(" Sending:");Serial.println( (char*)&Pkt_Buffer[2] );
     CC1101.SendData(Pkt_Buffer,packet_length);
+    index++;
     /* 
       A delay of 50 us from SendData to SetReceive seems to be the
       threshold for transmitting the packet properly most of the
@@ -119,11 +117,12 @@ void loop() {
     } else {
       digitalWrite( ledPin, ledOn );
     }
+    resetWatchDog();
     rcvdFlag = false;
     intFlag = false;
     Serial.flush();
+    resetWatchDog();
   }
-  
   if(CC1101.CheckReceiveFlag()) {
     
     size=CC1101.ReceiveData(Pkt_Buffer);
@@ -131,7 +130,6 @@ void loop() {
     rcvdFlag = true;
     Serial.print( numMissed );
     Serial.print( " missed ");
-    Serial.print( Pkt_Buffer[0] );
     Serial.print(" ");
     Serial.print( rssi );
     Serial.print( " Msg:" );
@@ -140,23 +138,31 @@ void loop() {
     Serial.println("");
     Serial.flush();
     boolean cmdFound = false;
-    
     for ( int i = 0 ; i < packet_length ; i++ ) {
       if ( Pkt_Buffer[i] == 0 ) break;
       if ( Pkt_Buffer[i] == 'L' ) {
-        Serial.println("rcvd L");        
+        Serial.print("rcvd L");        
         if ( ( i + 1 ) < packet_length ) {
           if ( Pkt_Buffer[i+1] == '0' ) {
-            Serial.println(" rcvd 0");
+            Serial.println("0");
             ledOn = false;
             break;
           }
           if ( Pkt_Buffer[i+1] == '1' ) {
-            Serial.println(" rcvd 1");
+            Serial.println("1");
             ledOn = true;
             break;
           }
         }
+      }
+    }
+    resetWatchDog();
+    if ( ledOn ) {
+      boolean state = true;
+      for ( int i = 0 ; i < 2000 ; i++ ) {
+        digitalWrite( ledPin, state );
+        state = !state;
+        delayMicroseconds( 250 );
       }
     }
   }
@@ -249,6 +255,10 @@ void setFreq( float freqMHz ) {
   Serial.println( freeRam() );
 */
 
+void resetWatchDog() {
+  digitalWrite( watchDogPin, LOW );
+  digitalWrite( watchDogPin, HIGH );
+}
 int freeRam() 
 {
   extern int __heap_start, *__brkval; 
